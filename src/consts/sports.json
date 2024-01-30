@@ -1,0 +1,49 @@
+[{
+		"id": "volleyball",
+		"name": "男子バレーボール"
+	},
+	{
+		"id": "volleyballf",
+		"name": "女子バレーボール"
+	},
+	{
+		"id": "softball",
+		"name": "ソフトボール"
+	},
+	{
+		"id": "futsal",
+		"name": "フットサル"
+	},
+	{
+		"id": "tennis",
+		"name": "テニス"
+	},
+	{
+		"id": "tabletennis",
+		"name": "卓球"
+	},
+  {
+    "id": "football",
+    "name": "サッカー"
+  },
+  {
+    "id": "handball",
+    "name": "男子ハンドボール"
+  },
+  {
+    "id": "handballf",
+    "name": "女子ハンドボール"
+  },
+  {
+    "id": "badminton",
+    "name": "バドミントン"
+  },
+  {
+    "id": "basketball",
+    "name": "男子バスケットボール"
+  },
+  {
+    "id": "basketballf",
+    "name": "女子バスケットボール"
+  }
+]

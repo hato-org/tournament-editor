@@ -1,23 +1,15 @@
-import "./error-fallback.css";
 import { FallbackProps } from "react-error-boundary";
 
 export function ErrorFallback({ error }: FallbackProps) {
   return (
-    <div className="error-fallback">
-      <h2>エラーが発生しました</h2>
-      <p>
+    <div className="flex h-dvh flex-col items-center justify-center gap-4 overflow-y-auto p-4">
+      <h2 className="text-2xl font-bold">エラーが発生しました</h2>
+      <p className="text-center text-sm">
         正しいJSONファイルを読み込んでいるか確認してください
         <br />
         JSONファイルが正しい構造になっているか確認してください
       </p>
-      <pre
-        style={{
-          maxWidth: "100%",
-          overflowX: "auto",
-          padding: "0.25rem 0.5rem",
-          border: "1px solid var(--border-color)",
-        }}
-      >
+      <pre className="max-w-full overflow-x-auto rounded-xl border bg-gray-100 p-4">
         {error.stack}
       </pre>
     </div>

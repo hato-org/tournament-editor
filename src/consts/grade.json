@@ -1,0 +1,52 @@
+[
+  {
+    "name": "中学1年",
+    "shortName": "中1",
+    "type": "jhs",
+    "gradeCode": "1",
+    "studentCount": 80
+  },
+  {
+    "name": "中学2年",
+    "shortName": "中2",
+    "type": "jhs",
+    "gradeCode": "2",
+    "studentCount": 80
+  },
+  {
+    "name": "中学3年",
+    "shortName": "中3",
+    "type": "jhs",
+    "gradeCode": "3",
+    "studentCount": 80
+  },
+
+  {
+    "name": "高校1年",
+    "shortName": "高1",
+    "type": "hs",
+    "gradeCode": "1",
+    "studentCount": 280
+  },
+  {
+    "name": "高校2年",
+    "shortName": "高2",
+    "type": "hs",
+    "gradeCode": "2",
+    "studentCount": 280
+  },
+  {
+    "name": "高校3年",
+    "shortName": "高3",
+    "type": "hs",
+    "gradeCode": "3",
+    "studentCount": 280
+  },
+  {
+    "name": "職員",
+    "shortName": "職員",
+    "type": "teacher",
+    "gradeCode": "",
+    "studentCount": 280
+  }
+]

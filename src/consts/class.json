@@ -1,0 +1,218 @@
+[
+  {
+    "name": "A組",
+    "shortName": "A",
+    "type": "jhs",
+    "gradeCode": "1",
+    "classCode": "A",
+    "studentCount": 40
+  },
+  {
+    "name": "B組",
+    "shortName": "B",
+    "type": "jhs",
+    "gradeCode": "1",
+    "classCode": "B",
+    "studentCount": 40
+  },
+  {
+    "name": "A組",
+    "shortName": "A",
+    "type": "jhs",
+    "gradeCode": "2",
+    "classCode": "A",
+    "studentCount": 40
+  },
+  {
+    "name": "B組",
+    "shortName": "B",
+    "type": "jhs",
+    "gradeCode": "2",
+    "classCode": "B",
+    "studentCount": 40
+  },
+  {
+    "name": "A組",
+    "shortName": "A",
+    "type": "jhs",
+    "gradeCode": "3",
+    "classCode": "A",
+    "studentCount": 40
+  },
+  {
+    "name": "B組",
+    "shortName": "B",
+    "type": "jhs",
+    "gradeCode": "3",
+    "classCode": "B",
+    "studentCount": 40
+  },
+  {
+    "name": "1組",
+    "shortName": "1",
+    "type": "hs",
+    "gradeCode": "1",
+    "classCode": "1",
+    "studentCount": 40
+  },
+  {
+    "name": "2組",
+    "shortName": "2",
+    "type": "hs",
+    "gradeCode": "1",
+    "classCode": "2",
+    "studentCount": 40
+  },
+  {
+    "name": "3組",
+    "shortName": "3",
+    "type": "hs",
+    "gradeCode": "1",
+    "classCode": "3",
+    "studentCount": 40
+  },
+  {
+    "name": "4組",
+    "shortName": "4",
+    "type": "hs",
+    "gradeCode": "1",
+    "classCode": "4",
+    "studentCount": 40
+  },
+  {
+    "name": "5組",
+    "shortName": "5",
+    "type": "hs",
+    "gradeCode": "1",
+    "classCode": "5",
+    "studentCount": 40
+  },
+  {
+    "name": "6組",
+    "shortName": "6",
+    "type": "hs",
+    "gradeCode": "1",
+    "classCode": "6",
+    "studentCount": 40
+  },
+  {
+    "name": "7組",
+    "shortName": "7",
+    "type": "hs",
+    "gradeCode": "1",
+    "classCode": "7",
+    "studentCount": 40
+  },
+  {
+    "name": "1組",
+    "shortName": "1",
+    "type": "hs",
+    "gradeCode": "2",
+    "classCode": "1",
+    "studentCount": 40
+  },
+  {
+    "name": "2組",
+    "shortName": "2",
+    "type": "hs",
+    "gradeCode": "2",
+    "classCode": "2",
+    "studentCount": 40
+  },
+  {
+    "name": "3組",
+    "shortName": "3",
+    "type": "hs",
+    "gradeCode": "2",
+    "classCode": "3",
+    "studentCount": 40
+  },
+  {
+    "name": "4組",
+    "shortName": "4",
+    "type": "hs",
+    "gradeCode": "2",
+    "classCode": "4",
+    "studentCount": 40
+  },
+  {
+    "name": "5組",
+    "shortName": "5",
+    "type": "hs",
+    "gradeCode": "2",
+    "classCode": "5",
+    "studentCount": 40
+  },
+  {
+    "name": "6組",
+    "shortName": "6",
+    "type": "hs",
+    "gradeCode": "2",
+    "classCode": "6",
+    "studentCount": 40
+  },
+  {
+    "name": "7組",
+    "shortName": "7",
+    "type": "hs",
+    "gradeCode": "2",
+    "classCode": "7",
+    "studentCount": 40
+  },
+  {
+    "name": "1組",
+    "shortName": "1",
+    "type": "hs",
+    "gradeCode": "3",
+    "classCode": "1",
+    "studentCount": 40
+  },
+  {
+    "name": "2組",
+    "shortName": "2",
+    "type": "hs",
+    "gradeCode": "3",
+    "classCode": "2",
+    "studentCount": 40
+  },
+  {
+    "name": "3組",
+    "shortName": "3",
+    "type": "hs",
+    "gradeCode": "3",
+    "classCode": "3",
+    "studentCount": 40
+  },
+  {
+    "name": "4組",
+    "shortName": "4",
+    "type": "hs",
+    "gradeCode": "3",
+    "classCode": "4",
+    "studentCount": 40
+  },
+  {
+    "name": "5組",
+    "shortName": "5",
+    "type": "hs",
+    "gradeCode": "3",
+    "classCode": "5",
+    "studentCount": 40
+  },
+  {
+    "name": "6組",
+    "shortName": "6",
+    "type": "hs",
+    "gradeCode": "3",
+    "classCode": "6",
+    "studentCount": 40
+  },
+  {
+    "name": "7組",
+    "shortName": "7",
+    "type": "hs",
+    "gradeCode": "3",
+    "classCode": "7",
+    "studentCount": 40
+  }
+]
