@@ -71,7 +71,12 @@ export default function TournamentPopover({
                   未選択
                 </option>
                 {gradeList.map(({ type, gradeCode, name }) => (
-                  <option value={`${type}-${gradeCode}`}>{name}</option>
+                  <option
+                    key={`${type}-${gradeCode}`}
+                    value={`${type}-${gradeCode}`}
+                  >
+                    {name}
+                  </option>
                 ))}
               </Select>
             </div>
@@ -107,7 +112,10 @@ export default function TournamentPopover({
                       gradeCode === tournament.class.grade
                   )
                   .map(({ type, gradeCode, classCode, name }) => (
-                    <option value={`${type}-${gradeCode}-${classCode}`}>
+                    <option
+                      key={`${type}-${gradeCode}-${classCode}`}
+                      value={`${type}-${gradeCode}-${classCode}`}
+                    >
                       {name}
                     </option>
                   ))}

@@ -69,7 +69,7 @@ function App() {
             種目を選択
           </option>
           {sports.map(({ id, name }) => (
-            <option value={`${id}-${name}`}>{name}</option>
+            <option key={id} value={`${id}-${name}`}>{name}</option>
           ))}
         </Select>
         <Select
@@ -88,7 +88,7 @@ function App() {
             場所を選択
           </option>
           {locations.map(({ id, name }) => (
-            <option value={id}>{name}</option>
+            <option key={id} value={id}>{name}</option>
           ))}
         </Select>
       </div>
